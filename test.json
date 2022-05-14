@@ -1,0 +1,156 @@
+[
+  {
+    "value": "cate1",
+    "label": "1.机械加工件",
+    "children": [
+      {
+        "value": "cate11",
+        "label": "1.1机械加工件下1"
+      },
+      {
+        "value": "cate12",
+        "label": "1.1机械加工件下2"
+      }
+    ]
+  },
+  {
+    "value": "cate2",
+    "label": "2.紧固件",
+    "children": [
+      {
+        "value": "cate21",
+        "label": "2.1紧固件下1"
+      },
+      {
+        "value": "cate22",
+        "label": "2.2紧固件下2"
+      }
+    ]
+  },
+  {
+    "value": "cate3",
+    "label": "2.机械配件",
+    "children": [
+      {
+        "value": "cate31",
+        "label": "2.1机械配件下1"
+      },
+      {
+        "value": "cate12",
+        "label": "2.2机械配件下2"
+      }
+    ]
+  },
+  {
+    "value": "cate4",
+    "label": "3.包装",
+    "children": [
+      {
+        "value": "cate41",
+        "label": "3.1包装下1"
+      },
+      {
+        "value": "cate42",
+        "label": "3.2包装下2"
+      }
+    ]
+  },
+  {
+    "value": "cate5",
+    "label": "4.电器加工件",
+    "children": [
+      {
+        "value": "cate51",
+        "label": "4.1电器加工件下1"
+      },
+      {
+        "value": "cate52",
+        "label": "4.2电器加工件下2"
+      }
+    ]
+  },
+  {
+    "value": "cate6",
+    "label": "5.基本元器件",
+    "children": [
+      {
+        "value": "cate61",
+        "label": "5.1基本元器件下1"
+      },
+      {
+        "value": "cate62",
+        "label": "5.2基本元器件下2"
+      }
+    ]
+  },
+  {
+    "value": "cate7",
+    "label": "5.集成电路芯片",
+    "children": [
+      {
+        "value": "cate71",
+        "label": "5.1集成电路芯片下1"
+      },
+      {
+        "value": "cate72",
+        "label": "5.2集成电路芯片下2"
+      }
+    ]
+  },
+  {
+    "value": "cate8",
+    "label": "6.功能模块",
+    "children": [
+      {
+        "value": "cate81",
+        "label": "6.1功能模块下1"
+      },
+      {
+        "value": "cate82",
+        "label": "6.2功能模块下2"
+      }
+    ]
+  },
+  {
+    "value": "cate9",
+    "label": "7.电气配件",
+    "children": [
+      {
+        "value": "cate91",
+        "label": "7.1电气配件下1"
+      },
+      {
+        "value": "cate92",
+        "label": "7.2电气配件下2"
+      }
+    ]
+  },
+  {
+    "value": "cate10",
+    "label": "8.辅助材料",
+    "children": [
+      {
+        "value": "cate101",
+        "label": "8.1辅助材料下1"
+      },
+      {
+        "value": "cate102",
+        "label": "8.2辅助材料下2"
+      }
+    ]
+  },
+  {
+    "value": "cate11",
+    "label": "9.低值易耗品",
+    "children": [
+      {
+        "value": "cate111",
+        "label": "9.1低值易耗品下1"
+      },
+      {
+        "value": "cate112",
+        "label": "9.2低值易耗品下2"
+      }
+    ]
+  }
+]
