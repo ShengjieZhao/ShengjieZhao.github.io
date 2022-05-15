@@ -5,11 +5,31 @@
     "children": [
       {
         "value": "cate11",
-        "label": "1.1机械加工件下1"
+        "label": "1.1 金属机加件"
       },
       {
         "value": "cate12",
-        "label": "1.1机械加工件下2"
+        "label": "1.2 塑胶加工件"
+      },
+      {
+        "value": "cate13",
+        "label": "1.3 钣金件"
+      },
+      {
+        "value": "cate14",
+        "label": "1.4 委外加工件"
+      },
+      {
+        "value": "cate15",
+        "label": "1.5 模具件"
+      },
+      {
+        "value": "cate16",
+        "label": "1.6 绑缚加工"
+      },
+      {
+        "value": "cate16",
+        "label": "1.7 3D加工"
       }
     ]
   },
@@ -19,11 +39,35 @@
     "children": [
       {
         "value": "cate21",
-        "label": "2.1紧固件下1"
+        "label": "2.1 螺钉"
       },
       {
         "value": "cate22",
-        "label": "2.2紧固件下2"
+        "label": "2.2 螺柱"
+      },
+      {
+        "value": "cate23",
+        "label": "2.3 螺母"
+      },
+      {
+        "value": "cate24",
+        "label": "2.4 垫圈"
+      },
+      {
+        "value": "cate25",
+        "label": "2.5 销"
+      },
+      {
+        "value": "cate26",
+        "label": "2.6 键"
+      },
+      {
+        "value": "cate27",
+        "label": "2.7 挡圈"
+      },
+      {
+        "value": "cate28",
+        "label": "2.8 铆钉"
       }
     ]
   },
@@ -33,11 +77,43 @@
     "children": [
       {
         "value": "cate31",
-        "label": "2.1机械配件下1"
+        "label": "2.9 轴承"
       },
       {
-        "value": "cate12",
-        "label": "2.2机械配件下2"
+        "value": "cate32",
+        "label": "2.10 轴套"
+      },
+      {
+        "value": "cate33",
+        "label": "2.11 弹簧"
+      },
+      {
+        "value": "cate34",
+        "label": "2.12 柱塞"
+      },
+      {
+        "value": "cate35",
+        "label": "2.13 插扣"
+      },
+      {
+        "value": "cate36",
+        "label": "2.14 织带"
+      },
+      {
+        "value": "cate37",
+        "label": "2.15 减速机"
+      },
+      {
+        "value": "cate38",
+        "label": "2.16 电机"
+      },
+      {
+        "value": "cate39",
+        "label": "2.17 驱动模组"
+      },
+      {
+        "value": "cate310",
+        "label": "2.18 机械五金杂项"
       }
     ]
   },
@@ -47,11 +123,27 @@
     "children": [
       {
         "value": "cate41",
-        "label": "3.1包装下1"
+        "label": "3.1 外包装箱"
       },
       {
         "value": "cate42",
-        "label": "3.2包装下2"
+        "label": "3.2 内包装盒"
+      },
+      {
+        "value": "cate43",
+        "label": "3.3 包装内衬"
+      },
+      {
+        "value": "cate44",
+        "label": "3.4 包装辅料"
+      },
+      {
+        "value": "cate45",
+        "label": "3.5 标贴"
+      },
+      {
+        "value": "cate46",
+        "label": "3.6 随机文件"
       }
     ]
   },
@@ -61,11 +153,19 @@
     "children": [
       {
         "value": "cate51",
-        "label": "4.1电器加工件下1"
+        "label": "4.1 硬性电路板"
       },
       {
         "value": "cate52",
-        "label": "4.2电器加工件下2"
+        "label": "4.2 柔性电路板"
+      },
+      {
+        "value": "cate53",
+        "label": "4.3 铝基板"
+      },
+      {
+        "value": "cate54",
+        "label": "4.4 定制线束"
       }
     ]
   },
@@ -75,11 +175,35 @@
     "children": [
       {
         "value": "cate61",
-        "label": "5.1基本元器件下1"
+        "label": "5.1 电容"
       },
       {
         "value": "cate62",
-        "label": "5.2基本元器件下2"
+        "label": "5.2 电阻"
+      },
+      {
+        "value": "cate63",
+        "label": "5.3 二极管"
+      },
+      {
+        "value": "cate64",
+        "label": "5.4 三极管"
+      },
+      {
+        "value": "cate65",
+        "label": "5.5 电感"
+      },
+      {
+        "value": "cate66",
+        "label": "5.6 晶振"
+      },
+      {
+        "value": "cate67",
+        "label": "5.7 板载开关"
+      },
+      {
+        "value": "cate68",
+        "label": "5.8 连接器"
       }
     ]
   },
@@ -89,11 +213,35 @@
     "children": [
       {
         "value": "cate71",
-        "label": "5.1集成电路芯片下1"
+        "label": "5.9 电源管理芯片"
       },
       {
         "value": "cate72",
-        "label": "5.2集成电路芯片下2"
+        "label": "5.10 处理器及微控制器"
+      },
+      {
+        "value": "cate73",
+        "label": "5.11 数据转换芯片"
+      },
+      {
+        "value": "cate74",
+        "label": "5.12 接口芯片"
+      },
+      {
+        "value": "cate75",
+        "label": "5.13 放大器"
+      },
+      {
+        "value": "cate76",
+        "label": "5.14 存储器"
+      },
+      {
+        "value": "cate77",
+        "label": "5.15 传感芯片"
+      },
+      {
+        "value": "cate78",
+        "label": "5.16 时钟芯片"
       }
     ]
   },
@@ -103,11 +251,27 @@
     "children": [
       {
         "value": "cate81",
-        "label": "6.1功能模块下1"
+        "label": "6.1 显示模块"
       },
       {
         "value": "cate82",
-        "label": "6.2功能模块下2"
+        "label": "6.2 通信模块"
+      },
+      {
+        "value": "cate83",
+        "label": "6.3 传感器模块"
+      },
+      {
+        "value": "cate84",
+        "label": "6.4 音视频模块"
+      },
+      {
+        "value": "cate85",
+        "label": "6.5 电机驱动器"
+      },
+      {
+        "value": "cate86",
+        "label": "6.6 开发模块"
       }
     ]
   },
@@ -117,11 +281,35 @@
     "children": [
       {
         "value": "cate91",
-        "label": "7.1电气配件下1"
+        "label": "7.1 电声器件"
       },
       {
         "value": "cate92",
-        "label": "7.2电气配件下2"
+        "label": "7.2 继电器"
+      },
+      {
+        "value": "cate93",
+        "label": "7.3 电池"
+      },
+      {
+        "value": "cate94",
+        "label": "7.4 按钮"
+      },
+      {
+        "value": "cate95",
+        "label": "7.5 存储卡"
+      },
+      {
+        "value": "cate96",
+        "label": "7.6 天线"
+      },
+      {
+        "value": "cate97",
+        "label": "7.7 线缆"
+      },
+      {
+        "value": "cate98",
+        "label": "7.8 电气五金杂项"
       }
     ]
   },
@@ -131,11 +319,39 @@
     "children": [
       {
         "value": "cate101",
-        "label": "8.1辅助材料下1"
+        "label": "8.1 金属原材料"
       },
       {
         "value": "cate102",
-        "label": "8.2辅助材料下2"
+        "label": "8.2 塑胶原材料"
+      },
+      {
+        "value": "cate103",
+        "label": "8.3 绑缚料"
+      },
+      {
+        "value": "cate104",
+        "label": "8.4 胶粘料"
+      },
+      {
+        "value": "cate105",
+        "label": "8.5 焊接材料"
+      },
+      {
+        "value": "cate106",
+        "label": "8.6 热缩管"
+      },
+      {
+        "value": "cate107",
+        "label": "8.7 工具类"
+      },
+      {
+        "value": "cate108",
+        "label": "8.8 量具类"
+      },
+      {
+        "value": "cate109",
+        "label": "8.9 其他"
       }
     ]
   },
@@ -145,11 +361,11 @@
     "children": [
       {
         "value": "cate111",
-        "label": "9.1低值易耗品下1"
+        "label": "9.1 劳保用品"
       },
       {
         "value": "cate112",
-        "label": "9.2低值易耗品下2"
+        "label": "9.2 办公用品"
       }
     ]
   }
