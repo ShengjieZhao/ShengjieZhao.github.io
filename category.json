@@ -1,371 +1,371 @@
 [
   {
-    "value": "cate01",
-    "label": "M01.机械加工件",
+    "value": "cate1",
+    "label": "1.机械加工件",
     "children": [
       {
-        "value": "cate0101",
-        "label": "M01.01 金属机加件"
+        "value": "cate101",
+        "label": "1.1 金属机加件"
       },
       {
-        "value": "cate0102",
-        "label": "M01.02 塑胶机加件"
+        "value": "cate102",
+        "label": "1.2 塑胶机加件"
       },
       {
-        "value": "cate0103",
-        "label": "M01.03 钣金件"
+        "value": "cate103",
+        "label": "1.3 钣金件"
       },
       {
-        "value": "cate0104",
-        "label": "M01.04 委外加工件"
+        "value": "cate104",
+        "label": "1.4 委外加工件"
       },
       {
-        "value": "cate0105",
-        "label": "M01.05 模具件"
+        "value": "cate105",
+        "label": "1.5 模具件"
       },
       {
-        "value": "cate0106",
-        "label": "M01.06 绑缚加工"
+        "value": "cate106",
+        "label": "1.6 绑缚加工"
       },
       {
-        "value": "cate0107",
-        "label": "M01.07 3D加工"
+        "value": "cate107",
+        "label": "1.7 3D加工"
       }
     ]
   },
   {
-    "value": "cate02",
-    "label": "M02.紧固件",
+    "value": "cate2",
+    "label": "2.紧固件",
     "children": [
       {
-        "value": "cate0201",
-        "label": "M02.01 螺钉"
+        "value": "cate201",
+        "label": "2.1 螺钉"
       },
       {
-        "value": "cate0202",
-        "label": "M02.02 螺柱"
+        "value": "cate202",
+        "label": "2.2 螺柱"
       },
       {
-        "value": "cate0203",
-        "label": "M02.03 螺母"
+        "value": "cate203",
+        "label": "2.3 螺母"
       },
       {
-        "value": "cate0204",
-        "label": "M02.04 垫圈"
+        "value": "cate204",
+        "label": "2.4 垫圈"
       },
       {
-        "value": "cate0205",
-        "label": "M02.05 销"
+        "value": "cate205",
+        "label": "2.5 销"
       },
       {
-        "value": "cate0206",
-        "label": "M02.06 键"
+        "value": "cate206",
+        "label": "2.6 键"
       },
       {
-        "value": "cate0207",
-        "label": "M02.07 挡圈"
+        "value": "cate207",
+        "label": "2.7 挡圈"
       },
       {
-        "value": "cate0208",
-        "label": "M02.08 铆钉"
+        "value": "cate208",
+        "label": "2.8 铆钉"
       }
     ]
   },
   {
-    "value": "cate03",
-    "label": "M03.机械配件",
+    "value": "cate2",
+    "label": "2.机械配件",
     "children": [
       {
-        "value": "cate0301",
-        "label": "M03.01 轴承"
+        "value": "cate209",
+        "label": "2.9 轴承"
       },
       {
-        "value": "cate0302",
-        "label": "M03.02 轴套"
+        "value": "cate210",
+        "label": "2.10 轴套"
       },
       {
-        "value": "cate0303",
-        "label": "M03.03 弹簧"
+        "value": "cate211",
+        "label": "2.11 弹簧"
       },
       {
-        "value": "cate0304",
-        "label": "M03.04 柱塞"
+        "value": "cate212",
+        "label": "2.12 柱塞"
       },
       {
-        "value": "cate0305",
-        "label": "M03.05 插扣"
+        "value": "cate213",
+        "label": "2.13 插扣"
       },
       {
-        "value": "cate0306",
-        "label": "M03.06 织带"
+        "value": "cate214",
+        "label": "2.14 织带"
       },
       {
-        "value": "cate0307",
-        "label": "M03.07 减速机"
+        "value": "cate215",
+        "label": "2.15 减速机"
       },
       {
-        "value": "cate0308",
-        "label": "M03.08 电机"
+        "value": "cate216",
+        "label": "2.16 电机"
       },
       {
-        "value": "cate0309",
-        "label": "M03.09 驱动模组"
+        "value": "cate217",
+        "label": "2.17 驱动模组"
       },
       {
-        "value": "cate0310",
-        "label": "M03.10 机械五金杂项"
+        "value": "cate218",
+        "label": "2.18 机械五金杂项"
       }
     ]
   },
   {
-    "value": "cate04",
-    "label": "M04.包装",
+    "value": "cate3",
+    "label": "3.包装",
     "children": [
       {
-        "value": "cate0401",
-        "label": "M04.01 外包装箱"
+        "value": "cate301",
+        "label": "3.1 外包装箱"
       },
       {
-        "value": "cate0402",
-        "label": "M04.02 内包装盒"
+        "value": "cate302",
+        "label": "3.2 内包装盒"
       },
       {
-        "value": "cate0403",
-        "label": "M04.03 包装内衬"
+        "value": "cate303",
+        "label": "3.3 包装内衬"
       },
       {
-        "value": "cate0404",
-        "label": "M04.04 包装辅料"
+        "value": "cate304",
+        "label": "3.4 包装辅料"
       },
       {
-        "value": "cate0405",
-        "label": "M04.05 标贴"
+        "value": "cate305",
+        "label": "3.5 标贴"
       },
       {
-        "value": "cate0406",
-        "label": "M04.06 随机文件"
+        "value": "cate306",
+        "label": "3.6 随机文件"
       }
     ]
   },
   {
-    "value": "cate05",
-    "label": "M05.电器加工件",
+    "value": "cate4",
+    "label": "4.电器加工件",
     "children": [
       {
-        "value": "cate0501",
-        "label": "M05.01 硬性电路板"
+        "value": "cate401",
+        "label": "4.1 硬性电路板"
       },
       {
-        "value": "cate0502",
-        "label": "M05.02 柔性电路板"
+        "value": "cate402",
+        "label": "4.2 柔性电路板"
       },
       {
-        "value": "cate0503",
-        "label": "M05.03 铝基板"
+        "value": "cate403",
+        "label": "4.3 铝基板"
       },
       {
-        "value": "cate0504",
-        "label": "M05.05 定制线束"
+        "value": "cate404",
+        "label": "4.4 定制线束"
       }
     ]
   },
   {
-    "value": "cate06",
-    "label": "M06.基本元器件",
+    "value": "cate5",
+    "label": "5.基本元器件",
     "children": [
       {
-        "value": "cate0601",
-        "label": "M06.01 电容"
+        "value": "cate501",
+        "label": "5.1 电容"
       },
       {
-        "value": "cate0602",
-        "label": "M06.02 电阻"
+        "value": "cate502",
+        "label": "5.2 电阻"
       },
       {
-        "value": "cate0603",
-        "label": "M06.03 二极管"
+        "value": "cate503",
+        "label": "5.3 二极管"
       },
       {
-        "value": "cate0604",
-        "label": "M06.04 三极管"
+        "value": "cate504",
+        "label": "5.4 三极管"
       },
       {
-        "value": "cate0605",
-        "label": "M06.05 电感"
+        "value": "cate505",
+        "label": "5.5 电感"
       },
       {
-        "value": "cate0606",
-        "label": "M06.06 晶振"
+        "value": "cate506",
+        "label": "5.6 晶振"
       },
       {
-        "value": "cate0607",
-        "label": "M06.07 板载开关"
+        "value": "cate507",
+        "label": "5.7 板载开关"
       },
       {
-        "value": "cate0608",
-        "label": "M06.08 连接器"
+        "value": "cate508",
+        "label": "5.8 连接器"
       }
     ]
   },
   {
-    "value": "cate07",
-    "label": "M07.集成电路芯片",
+    "value": "cate5",
+    "label": "5.集成电路芯片",
     "children": [
       {
-        "value": "cate0701",
-        "label": "M07.01 电源管理芯片"
+        "value": "cate509",
+        "label": "5.9 电源管理芯片"
       },
       {
-        "value": "cate0702",
-        "label": "M07.02 处理器及微控制器"
+        "value": "cate510",
+        "label": "5.10 处理器及微控制器"
       },
       {
-        "value": "cate0703",
-        "label": "M07.03 数据转换芯片"
+        "value": "cate511",
+        "label": "5.11 数据转换芯片"
       },
       {
-        "value": "cate0704",
-        "label": "M07.04 接口芯片"
+        "value": "cate512",
+        "label": "5.12 接口芯片"
       },
       {
-        "value": "cate0705",
-        "label": "M07.05 放大器"
+        "value": "cate513",
+        "label": "5.13 放大器"
       },
       {
-        "value": "cate0706",
-        "label": "M07.06 存储器"
+        "value": "cate514",
+        "label": "5.14 存储器"
       },
       {
-        "value": "cate0707",
-        "label": "M07.07 传感芯片"
+        "value": "cate515",
+        "label": "5.15 传感芯片"
       },
       {
-        "value": "cate0708",
-        "label": "M07.08 时钟芯片"
+        "value": "cate516",
+        "label": "5.16 时钟芯片"
       }
     ]
   },
   {
-    "value": "cate08",
-    "label": "M08.功能模块",
+    "value": "cate6",
+    "label": "6.功能模块",
     "children": [
       {
-        "value": "cate0801",
-        "label": "M08.01 显示模块"
+        "value": "cate601",
+        "label": "6.1 显示模块"
       },
       {
-        "value": "cate0802",
-        "label": "M08.02 通信模块"
+        "value": "cate602",
+        "label": "6.2 通信模块"
       },
       {
-        "value": "cate0803",
-        "label": "M08.03 传感器模块"
+        "value": "cate603",
+        "label": "6.3 传感器模块"
       },
       {
-        "value": "cate0804",
-        "label": "M08.04 音视频模块"
+        "value": "cate604",
+        "label": "6.4 音视频模块"
       },
       {
-        "value": "cate0805",
-        "label": "M08.05 电机驱动器"
+        "value": "cate605",
+        "label": "6.5 电机驱动器"
       },
       {
-        "value": "cate0806",
-        "label": "M08.06 开发模块"
+        "value": "cate606",
+        "label": "6.6 开发模块"
       }
     ]
   },
   {
-    "value": "cate09",
-    "label": "M09.电气配件",
+    "value": "cate7",
+    "label": "7.电气配件",
     "children": [
       {
-        "value": "cate0901",
-        "label": "M09.01 电声器件"
+        "value": "cate701",
+        "label": "7.1 电声器件"
       },
       {
-        "value": "cate0902",
-        "label": "M09.02 继电器"
+        "value": "cate702",
+        "label": "7.2 继电器"
       },
       {
-        "value": "cate0903",
-        "label": "M09.03 电池"
+        "value": "cate703",
+        "label": "7.3 电池"
       },
       {
-        "value": "cate0904",
-        "label": "M09.04 按钮"
+        "value": "cate704",
+        "label": "7.4 按钮"
       },
       {
-        "value": "cate0905",
-        "label": "M09.05 存储卡"
+        "value": "cate705",
+        "label": "7.5 存储卡"
       },
       {
-        "value": "cate0906",
-        "label": "M09.06 天线"
+        "value": "cate706",
+        "label": "7.6 天线"
       },
       {
-        "value": "cate0907",
-        "label": "M09.07 线缆"
+        "value": "cate707",
+        "label": "7.7 线缆"
       },
       {
-        "value": "cate0908",
-        "label": "M09.08 电气五金杂项"
+        "value": "cate708",
+        "label": "7.8 电气五金杂项"
       }
     ]
   },
   {
-    "value": "cate10",
-    "label": "M10.辅助材料",
+    "value": "cate8",
+    "label": "8.辅助材料",
     "children": [
       {
-        "value": "cate1001",
-        "label": "M10.01 金属原材料"
+        "value": "cate801",
+        "label": "8.1 金属原材料"
       },
       {
-        "value": "cate1002",
-        "label": "M10.02 塑胶原材料"
+        "value": "cate802",
+        "label": "8.2 塑胶原材料"
       },
       {
-        "value": "cate1003",
-        "label": "M10.03 绑缚料"
+        "value": "cate803",
+        "label": "8.3 绑缚料"
       },
       {
-        "value": "cate1004",
-        "label": "M10.04 胶粘料"
+        "value": "cate804",
+        "label": "8.4 胶粘料"
       },
       {
-        "value": "cate1005",
-        "label": "M10.05 焊接材料"
+        "value": "cate805",
+        "label": "8.5 焊接材料"
       },
       {
-        "value": "cate1006",
-        "label": "M10.06 热缩管"
+        "value": "cate806",
+        "label": "8.6 热缩管"
       },
       {
-        "value": "cate1007",
-        "label": "M10.07 工具类"
+        "value": "cate807",
+        "label": "8.7 工具类"
       },
       {
-        "value": "cate1008",
-        "label": "M10.08 量具类"
+        "value": "cate808",
+        "label": "8.8 量具类"
       },
       {
-        "value": "cate1009",
-        "label": "M10.09 其他"
+        "value": "cate809",
+        "label": "8.9 其他"
       }
     ]
   },
   {
-    "value": "cate11",
-    "label": "M11.低值易耗品",
+    "value": "cate9",
+    "label": "9.低值易耗品",
     "children": [
       {
-        "value": "cate1101",
-        "label": "M11.01 劳保用品"
+        "value": "cate901",
+        "label": "9.1 劳保用品"
       },
       {
-        "value": "cate1102",
-        "label": "M11.02 办公用品"
+        "value": "cate902",
+        "label": "9.2 办公用品"
       }
     ]
   }
